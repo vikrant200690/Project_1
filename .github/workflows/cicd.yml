@@ -43,7 +43,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: frontend
+        working-directory: frontend/vite-project
 
     steps:
       - name: Checkout code
